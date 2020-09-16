@@ -1,2 +1,2 @@
 # CSS-Exercises
-Different approaches in using CSS3 and HTML5
+Different approaches using HTML5 and CSS3 
